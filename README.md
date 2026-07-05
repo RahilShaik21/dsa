@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/RahilShaik21/dsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RahilShaik21/dsa/tree/master/0374-guess-number-higher-or-lower) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
