@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/RahilShaik21/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/RahilShaik21/dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/RahilShaik21/dsa/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/RahilShaik21/dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RahilShaik21/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/RahilShaik21/dsa/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
