@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RahilShaik21/dsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RahilShaik21/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RahilShaik21/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -77,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
