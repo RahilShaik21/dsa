@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahilShaik21/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RahilShaik21/dsa/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RahilShaik21/dsa/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RahilShaik21/dsa/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahilShaik21/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RahilShaik21/dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahilShaik21/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
