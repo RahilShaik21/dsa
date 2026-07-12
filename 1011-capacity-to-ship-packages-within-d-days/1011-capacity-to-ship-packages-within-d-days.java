@@ -33,6 +33,9 @@ class Solution {
                 sum=nums[i];
                 days++;
             }
+            if(days>target){
+                return false;
+            }
         }
         return days>target?false:true;
     }
