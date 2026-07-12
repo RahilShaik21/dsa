@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/RahilShaik21/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/RahilShaik21/dsa/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
