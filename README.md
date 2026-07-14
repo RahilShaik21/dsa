@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/RahilShaik21/dsa/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RahilShaik21/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/RahilShaik21/dsa/tree/master/1920-build-array-from-permutation) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/RahilShaik21/dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
