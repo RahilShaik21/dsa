@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RahilShaik21/dsa/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/RahilShaik21/dsa/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
