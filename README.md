@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/RahilShaik21/dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/RahilShaik21/dsa/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/RahilShaik21/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/RahilShaik21/dsa/tree/master/1732-find-the-highest-altitude) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/RahilShaik21/dsa/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/RahilShaik21/dsa/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/RahilShaik21/dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RahilShaik21/dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
