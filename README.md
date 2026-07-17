@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RahilShaik21/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/RahilShaik21/dsa/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1380-lucky-numbers-in-a-matrix) |
