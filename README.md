@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0709-to-lower-case](https://github.com/RahilShaik21/dsa/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/RahilShaik21/dsa/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RahilShaik21/dsa/tree/master/1528-shuffle-string) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/RahilShaik21/dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/RahilShaik21/dsa/tree/master/0645-set-mismatch) |
