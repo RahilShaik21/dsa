@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/RahilShaik21/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Interactive
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/RahilShaik21/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/RahilShaik21/dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/RahilShaik21/dsa/tree/master/1920-build-array-from-permutation) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/RahilShaik21/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Simulation
 |  |
 | ------- |
