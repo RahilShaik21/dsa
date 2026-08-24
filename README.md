@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/RahilShaik21/dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RahilShaik21/dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/RahilShaik21/dsa/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RahilShaik21/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/RahilShaik21/dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/RahilShaik21/dsa/tree/master/1920-build-array-from-permutation) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RahilShaik21/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
