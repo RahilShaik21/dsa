@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/RahilShaik21/dsa/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/RahilShaik21/dsa/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/RahilShaik21/dsa/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RahilShaik21/dsa/tree/master/1528-shuffle-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RahilShaik21/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RahilShaik21/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RahilShaik21/dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RahilShaik21/dsa/tree/master/0283-move-zeroes) |
