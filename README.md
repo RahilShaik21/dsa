@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RahilShaik21/dsa/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/RahilShaik21/dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RahilShaik21/dsa/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RahilShaik21/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RahilShaik21/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RahilShaik21/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RahilShaik21/dsa/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RahilShaik21/dsa/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RahilShaik21/dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RahilShaik21/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/RahilShaik21/dsa/tree/master/0832-flipping-an-image) |
