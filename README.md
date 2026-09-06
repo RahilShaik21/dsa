@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/RahilShaik21/dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/RahilShaik21/dsa/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RahilShaik21/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RahilShaik21/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RahilShaik21/dsa/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RahilShaik21/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/RahilShaik21/dsa/tree/master/0566-reshape-the-matrix) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RahilShaik21/dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RahilShaik21/dsa/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
 ## Quicksort
 |  |
 | ------- |
@@ -226,4 +229,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RahilShaik21/dsa/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RahilShaik21/dsa/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
