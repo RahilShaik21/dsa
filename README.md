@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RahilShaik21/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RahilShaik21/dsa/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RahilShaik21/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RahilShaik21/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RahilShaik21/dsa/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/RahilShaik21/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/RahilShaik21/dsa/tree/master/0867-transpose-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RahilShaik21/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/RahilShaik21/dsa/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/RahilShaik21/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RahilShaik21/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RahilShaik21/dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RahilShaik21/dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
