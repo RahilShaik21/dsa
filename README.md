@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RahilShaik21/dsa/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/RahilShaik21/dsa/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/RahilShaik21/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/RahilShaik21/dsa/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RahilShaik21/dsa/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RahilShaik21/dsa/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -284,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RahilShaik21/dsa/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RahilShaik21/dsa/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/RahilShaik21/dsa/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
