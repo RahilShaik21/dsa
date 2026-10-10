@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RahilShaik21/dsa/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RahilShaik21/dsa/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RahilShaik21/dsa/tree/master/0069-sqrtx) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RahilShaik21/dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RahilShaik21/dsa/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RahilShaik21/dsa/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RahilShaik21/dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/RahilShaik21/dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RahilShaik21/dsa/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RahilShaik21/dsa/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/RahilShaik21/dsa/tree/master/0709-to-lower-case) |
