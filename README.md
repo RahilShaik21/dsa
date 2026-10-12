@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/RahilShaik21/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/RahilShaik21/dsa/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/RahilShaik21/dsa/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RahilShaik21/dsa/tree/master/0125-valid-palindrome) |
