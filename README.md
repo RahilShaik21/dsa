@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RahilShaik21/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/RahilShaik21/dsa/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/RahilShaik21/dsa/tree/master/1512-number-of-good-pairs) |
+| [1922-count-good-numbers](https://github.com/RahilShaik21/dsa/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RahilShaik21/dsa/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/RahilShaik21/dsa/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
